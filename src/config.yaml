@@ -1,0 +1,9 @@
+# config.yaml - AgentOS System Control Deck
+
+credentials:
+  groq_api_key: "API_KEY"
+
+orchestration:
+  model_name: "llama-3.3-70b-versatile"
+  temperature: 0.6
+  max_loop_threshold: 3
